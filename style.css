@@ -1,0 +1,118 @@
+h2 { font-size: 25px;
+    width: auto;
+    font-family: 'Libre Baskerville', serif;
+  font-size: 20px;
+}
+
+.presentacion {
+  margin:auto ;
+    width: 50%;
+    position: absolute;
+    left: 350px;
+    bottom: 50px;
+}
+
+.divisor {
+    border-color: black;
+    border-width: 2px;
+    width: 50%;
+}
+
+h1{
+  color: black;
+  font-size: 33px;
+  text-align: left;
+  font-family:'Gloock', serif;
+}
+
+body{ background-color: whitesmoke ;
+    margin:11px;
+    
+    border: 11px solid rgb(240, 214, 168);
+    width: 100%;
+}
+
+#img { 
+  border: 6px solid rgb(160, 108, 108);
+    height: 310px;
+    position: relative;
+    left: 50px;
+    bottom: -5px;
+ }
+
+
+
+
+.estudios { display: block;
+  color: #40514E;
+  top: 380px;;
+  left: 570px;  
+}
+  
+ 
+
+.Experiencia {
+  display: block;
+  top: 600px;;
+  left: 570px;  
+  color: #40514E;
+}
+
+
+
+#fuente {
+  font-family:'Gloock', serif; 
+  font-size: 20px;
+  border-left: 188px solid rgb(160, 108, 108);
+  color: #40514E;
+}
+
+#parrafos{
+  font-family: 'Libre Baskerville', serif;
+  font-size: 20px;
+  position: relative;
+  left: 50px;
+ color: #40514E;
+}
+
+.top-container {
+    background-color: #FF9500;
+    position: relative;
+    padding-top: 5px;
+
+}
+
+#contacto { display: block;
+  font-family: 'Libre Baskerville', serif;
+  position: relative;
+  left: 20px;
+  margin: 160px auto 60px auto;
+    color: #40514E;
+}
+
+.btn{  background-color: rgb(240, 214, 168); color: white; border-radius: 8px;
+ 
+}
+
+h4{ color: black; font-family: 'Libre Baskerville', serif; font-size: 15px;
+
+}
+
+.boton{display: block;
+  
+  position: relative;
+  left: 40px;
+  margin: 160px auto 60px auto;}
+
+  .titulo {
+    position: relative;
+  left: 30px;
+  }
+
+  .final{
+  
+    position: relative;
+    left: 50%;
+    margin: 125px auto 60px auto;
+    
+  }
